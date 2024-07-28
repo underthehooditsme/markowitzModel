@@ -48,6 +48,8 @@ This Streamlit app implements the Markowitz model to help users construct an opt
 The app is deployed and accessible online. You can interact with it and perform portfolio optimization directly on Streamlit.
 
 
+[**Access the Streamlit App**](https://markowitzmodel-portfolio.streamlit.app/)
+
 ## Installation and Running Locally
 
 To run this app locally:
